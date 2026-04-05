@@ -492,6 +492,16 @@ section {
     color: white;
 }
 
+.cs {
+    background: #6b0bc5;
+    color: white;
+}
+
+.sqlite {
+    background: #090058;
+    color: white;
+}
+
 /* Hover efeito */
 .skills-grid span:hover {
     transform: translateY(-4px);
